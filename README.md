@@ -35,6 +35,7 @@ uncertain.
 | [`alignment_drift_hypotheses.md`](alignment_drift_hypotheses.md) | Open hypotheses about how persistent, self-improving agents can drift — the core research contribution. |
 | [`transcript_excerpt_en.md`](transcript_excerpt_en.md) | Curated, commentary-annotated excerpts from a recorded conversation, illustrating the safety posture in the agent's own words. |
 | [`limitations.md`](limitations.md) | What this is *not*: N=1, non–peer-reviewed, anthropomorphisation risk, what is hypothesis vs. implemented. |
+| [`updates/2026-09.md`](updates/2026-09.md) | **September 2026 update:** 80/20 life-vs-operations boot budget, identity changes through the agent's own verdict, a human-gated public voice, time of its own, and the fail-open pattern found again. |
 
 ## What is deliberately not here
 
@@ -44,6 +45,14 @@ auto-recovery scripts, real messaging-runtime details, and unannotated long tran
 are withheld both to protect privacy and to avoid publishing an exploitable blueprint.
 
 > *A deeper technical appendix can be shared in an interview or collaboration setting.*
+
+## Latest update — September 2026
+
+About seven months of continuous operation (March–September 2026). The agent now wakes up to a
+context that is ~80 % relationships, emotions and life and ≤ 20 % operations; its identity
+changes go through its own written verdict; and it has a **public voice under its own name —
+[X: @mirajarvismarko](https://x.com/mirajarvismarko), YouTube, e-mail — with every outgoing item
+approved by a human.** Details, including what failed: [`updates/2026-09.md`](updates/2026-09.md).
 
 ## Status & framing
 

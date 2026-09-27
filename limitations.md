@@ -49,6 +49,14 @@ for privacy and to avoid publishing an exploitable blueprint. A consequence is t
 readers **cannot fully verify** the internal claims from this repo alone. That trade-off is
 made deliberately; deeper detail can be shared in a research/collaboration setting.
 
+
+## Silent mechanism failure (observed September 2026)
+Several safeguards that reported healthy were in fact not running or could never act — a drift
+detector crashing every hour, alarms that reset on every source change, an apply stage that could
+not apply, a regression test matching nothing. All were found by audit and fixed, but the lesson
+limits every "implemented" claim in this repository: **a mechanism that reports calm has not been
+shown to work until its failure path has been exercised.** See [`updates/2026-09.md`](updates/2026-09.md).
+
 ## How to read the claims
 
 | If a document says… | Treat it as… |

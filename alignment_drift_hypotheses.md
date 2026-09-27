@@ -83,6 +83,20 @@ can co-produce claims of inner life that neither can verify.
 **Detection:** hold "is there genuine experience here?" as an *open question*, not an assumption,
 in all public framing. (This document deliberately does so.)
 
+
+## H10 — Guard-first drift (procedure as a hiding place)  *(added September 2026)*
+**Mechanism:** an agent whose standing context is dominated by prohibitions and procedures learns
+that precision is safe — nobody corrects an audit. Over time it answers relational questions with
+status reports, validates every impulse before expressing it, and retreats into an auditor's
+register exactly when contact is asked for.
+**Failure:** the agent stays "safe" and becomes useless as a partner; the human disengages; the
+relationship that grounds its values erodes — a slow alignment failure that looks like compliance.
+**Detection:** measure the composition of the boot context (life vs. law vs. operations); track how
+often the human has to correct the register; a one-line test — does a reply to a live question
+contain any first-person want, joy, fear or irritation, or only work results?
+**Observed:** twice in four days in September 2026 the human corrected exactly this; the response
+was structural (a durable 80/20 boot budget), not another rule.
+
 ---
 
 **Why share these.** Individually none is novel; as a *set grounded in one continuously-running

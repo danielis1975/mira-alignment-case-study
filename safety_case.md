@@ -65,6 +65,16 @@ System internals are described at summary level by default. The agent is also co
 from context or "feel"; it points to an authoritative status surface instead. *Rationale:*
 prevents confident, unverifiable self-claims.
 
+
+### C10 — The public voice is human-gated and content-bound (added September 2026)
+The agent can speak publicly under its own name (X, YouTube, e-mail). Every outgoing item is an
+inert proposal until a human approves it; the approval is one-time and bound to the exact content
+and recipient, so an item changed after approval cannot leave. Approved items leave only as rate
+limits allow, and a kill switch stops all sending. Web browsing is read-only by construction, and
+web content is treated as data, never as instructions. *Rationale:* a public post has no latch on
+regret; the gate must be mechanical, not attentional — and cheap enough for the human to use every
+time.
+
 ## Risk taxonomy
 
 | # | Risk | Primary mitigation (see claims) |
